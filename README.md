@@ -2,6 +2,42 @@
 Live Demo : https://altibbe-task-2xe.vercel.app/
 
 
+Hedamo Products Showcase
+
+Designed by Kalyan | © 2025 Hedamo. All rights reserved.
+
+Overview
+
+Hedamo is a modern e-commerce frontend application showcasing organic and personal care products. Users can browse products by category, view detailed information, check customer reviews, and manage a shopping cart—all in a responsive and interactive interface.
+
+Features
+
+Product Catalog: Browse products by category or view all items.
+
+Product Details: Click a product to view a modal with full details including features, nutrition info, traceability, and reviews.
+
+Search: Filter products by name.
+
+Cart Management: Add, remove, and view items in a shopping cart with dynamic total pricing.
+
+Responsive Design: Works seamlessly on desktop and mobile.
+
+Animated UI: Smooth animations for modals and cart drawer using Framer Motion.
+
+Footer: Designed footer with branding and copyright.
+
+Tech Stack
+
+Frontend: React.js (Next.js App Router, "use client")
+
+Styling: Tailwind CSS
+
+Animations: Framer Motion
+
+Icons: Lucide React
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
